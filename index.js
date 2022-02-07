@@ -27,8 +27,5 @@ app.get('/', (req, res) => {
       res.send(error);
     });
 });
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
+
 
